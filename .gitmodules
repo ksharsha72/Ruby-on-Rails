@@ -1,0 +1,6 @@
+[submodule "alpha-blog"]
+	path = alpha-blog
+	url = git@github.com:ksharsha72/alpha-blog.git
+[submodule "test_app"]
+	path = test_app
+	url = git@github.com:ksharsha72/test_app.git
